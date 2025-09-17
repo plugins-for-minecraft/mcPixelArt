@@ -29,16 +29,20 @@ A simple plugin that allows you to build 2D and 3D structures in Minecraft by si
 
 # Example for horizontal build:
 INPUT
+
 <img width="437" height="523" alt="image" src="https://github.com/user-attachments/assets/232a7e79-a5a8-4289-8737-c943824539f7" />
 
 OUTPUT
+
 <img width="1920" height="1111" alt="horizontalBuild" src="https://github.com/user-attachments/assets/aac1b5a0-489e-41b9-815a-aca9205e8f0d" />
 
 # Example for vertical build:
 INPUT
+
 <img width="427" height="517" alt="image" src="https://github.com/user-attachments/assets/e11a3561-a5a9-4f1f-aaa1-fc1199fbf848" />
 
 OUTPUT
+
 <img width="1920" height="1111" alt="verticalBuild" src="https://github.com/user-attachments/assets/76b7dfd8-5f1f-43c0-b66b-530e02b99c6f" />
 
 
