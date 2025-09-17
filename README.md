@@ -9,9 +9,10 @@ A simple plugin that allows you to build 2D and 3D structures in Minecraft by si
    Format: x,y,z,orientation , Example: 1053.482,74,-1067.782,1.
 6. Use orientation 1 for a flat/horizontal build and orientation 0 for a vertical build (refer to the images below).
 7. Edit the matrices (rows of numbers) to create patterns! 0 indicates the absence of a block and any other integer will place a block. The integers should be comma-separated. Each matrix is a separate layer separated by '---'. Different integers represent a different block.
-8. Block menu:\n
-  i. Stone\n
-  ii. Acacia Planks\n
+8. Block menu:
+   
+  i. Stone
+  ii. Acacia Planks
   iii. Cyan stained glass\n                     
   iv. Amethyst Block
   v. Basalt  
