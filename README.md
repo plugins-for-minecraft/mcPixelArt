@@ -43,6 +43,10 @@ INPUT
 
 OUTPUT
 
-<img width="1920" height="1111" alt="verticalBuild" src="https://github.com/user-attachments/assets/76b7dfd8-5f1f-43c0-b66b-530e02b99c6f" />
+<img width="1920" height="1111" alt="verticalBuild" src="https://github.com/user-attachments/assets/1bd191a7-9152-48ea-b756-a0718cd3c0b3" />
 
+
+# Tips:
+1. Make the patterns in excel and then copy-paste into matrix.txt. Take care to remove the spaces between integers and replace them with commas. Separate each layer/matrix with three hyphens (---) as shown above.
+2. If you have any questions please feel free to contact me: [LinkedIn](https://www.linkedin.com/in/alicia-gonsalves-9b850124b)
 
