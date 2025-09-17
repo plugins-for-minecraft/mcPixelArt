@@ -12,12 +12,12 @@ A simple plugin that allows you to build 2D and 3D structures in Minecraft by si
 8. Block menu: <br>
   i. Stone<br>
   ii. Acacia Planks<br>
-  iii. Cyan stained glass<br>               
+  iii. Cyan stained glass               
   iv. Amethyst Block<br>
   v. Basalt<br>
   vi. Smooth Quartz<br>
   vii. Gold Block<br>
-  viii. Diamond Block<br>       
+  viii. Diamond Block       
   ix. Obsidian<br>
   x. Black Glazed Terracotta
 
