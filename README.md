@@ -48,5 +48,6 @@ OUTPUT
 
 # Tips:
 1. Make the patterns in excel and then copy-paste into matrix.txt. Take care to remove the spaces between integers and replace them with commas. Separate each layer/matrix with three hyphens (---) as shown above.
-2. If you have any questions please feel free to contact me: [LinkedIn](https://www.linkedin.com/in/alicia-gonsalves-9b850124b)
+2. To confirm that matrix.txt is in the right location check its path by right-clicking and going to 'properties'. The path will look something like this: D:\test server\plugins\mcPixelArt
+3. If you have any questions please feel free to contact me: [LinkedIn](https://www.linkedin.com/in/alicia-gonsalves-9b850124b)
 
