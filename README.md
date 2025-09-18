@@ -11,15 +11,15 @@ A simple plugin that allows you to build 2D and 3D structures in Minecraft by si
 7. Edit the matrices (rows of numbers) to create patterns! 0 indicates the absence of a block and any other integer will place a block. The integers should be comma-separated. Each matrix is a separate layer separated by '---'. Different integers represent a different block.
 8. Block menu: <br>
   i. Stone<br>
-  ii. Acacia Planks<br>
+  ii. Dark Oak Planks<br>
   iii. Cyan stained glass               
   iv. Amethyst Block<br>
-  v. Basalt<br>
+  v. Smooth Basalt<br>
   vi. Smooth Quartz<br>
   vii. Gold Block<br>
   viii. Diamond Block       
   ix. Obsidian<br>
-  x. Black Glazed Terracotta
+  x. Cobbled Deepslate
 
    
 # Please note
