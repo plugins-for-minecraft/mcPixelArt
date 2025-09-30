@@ -1,5 +1,6 @@
 # mcPixelArt
 A simple plugin that allows you to build 2D and 3D structures in Minecraft by simply editing a text file!
+Link to mcPixelArt_DesignZone: https://docs.google.com/spreadsheets/d/19MfVCpknkBJGtNpm2yGLj4hmnbvqyuHWBa7Fm8IwjZY/copy 
 
 # Steps:
 1. Download the provided plugin file 'mcPixelArt-1.0-SNAPSHOT' and place it in the 'plugins' folder of your Minecraft server.
